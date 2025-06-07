@@ -7,6 +7,36 @@
   "total": 104325,
   "list": [
     {
+      "vod_id": 106016,
+      "vod_name": "修仙记之何仙姑传",
+      "type_id": 13,
+      "type_name": "国产剧",
+      "vod_en": "xiuxianjizhihexianguchuan",
+      "vod_time": "2025-06-07 18:09:48",
+      "vod_remarks": "更新至第34集",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106205,
+      "vod_name": "紫川之光明王",
+      "type_id": 13,
+      "type_name": "国产剧",
+      "vod_en": "zichuanzhiguangmingwang",
+      "vod_time": "2025-06-07 18:04:25",
+      "vod_remarks": "更新至第20集",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106397,
+      "vod_name": "临江仙",
+      "type_id": 13,
+      "type_name": "国产剧",
+      "vod_en": "linjiangxian",
+      "vod_time": "2025-06-07 18:00:32",
+      "vod_remarks": "更新至第08集",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
       "vod_id": 104890,
       "vod_name": "超越命运",
       "type_id": 24,
@@ -173,36 +203,6 @@
       "type_name": "韩国剧",
       "vod_en": "shishangzuimeilidelibie",
       "vod_time": "2025-06-07 12:45:16",
-      "vod_remarks": "已完结",
-      "vod_play_from": "liangzi,lzm3u8"
-    },
-    {
-      "vod_id": 106430,
-      "vod_name": "三言二拍",
-      "type_id": 13,
-      "type_name": "国产剧",
-      "vod_en": "sanyanerpai",
-      "vod_time": "2025-06-07 12:44:48",
-      "vod_remarks": "已完结",
-      "vod_play_from": "liangzi,lzm3u8"
-    },
-    {
-      "vod_id": 106429,
-      "vod_name": "忍者小英雄",
-      "type_id": 30,
-      "type_name": "日韩动漫",
-      "vod_en": "renzhexiaoyingxiong",
-      "vod_time": "2025-06-07 12:43:58",
-      "vod_remarks": "已完结",
-      "vod_play_from": "liangzi,lzm3u8"
-    },
-    {
-      "vod_id": 106428,
-      "vod_name": "人面桃花",
-      "type_id": 21,
-      "type_name": "台湾剧",
-      "vod_en": "renmiantaohua",
-      "vod_time": "2025-06-07 12:43:16",
       "vod_remarks": "已完结",
       "vod_play_from": "liangzi,lzm3u8"
     }
