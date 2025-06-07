@@ -1,0 +1,422 @@
+{
+  "code": 1,
+  "msg": "数据列表",
+  "page": 1,
+  "pagecount": 5217,
+  "limit": "20",
+  "total": 104325,
+  "list": [
+    {
+      "vod_id": 104890,
+      "vod_name": "超越命运",
+      "type_id": 24,
+      "type_name": "泰国剧",
+      "vod_en": "chaoyuemingyun",
+      "vod_time": "2025-06-07 14:48:52",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 104031,
+      "vod_name": "推理要在晚餐后动画版",
+      "type_id": 30,
+      "type_name": "日韩动漫",
+      "vod_en": "tuiliyaozaiwancanhou",
+      "vod_time": "2025-06-07 13:15:54",
+      "vod_remarks": "更新至第10集",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 23159,
+      "vod_name": "食尚玩家",
+      "type_id": 26,
+      "type_name": "港台综艺",
+      "vod_en": "shishangwanjia",
+      "vod_time": "2025-06-07 13:08:43",
+      "vod_remarks": "更新至20250606",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 90385,
+      "vod_name": "娱乐百分百",
+      "type_id": 26,
+      "type_name": "港台综艺",
+      "vod_en": "yulebaifenbai",
+      "vod_time": "2025-06-07 13:08:08",
+      "vod_remarks": "更新至20250606",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 104875,
+      "vod_name": "Biong Biong地球游戏厅第三季",
+      "type_id": 27,
+      "type_name": "日韩综艺",
+      "vod_en": "BiongBiongdiqiuyouxitingdisanji",
+      "vod_time": "2025-06-07 13:01:32",
+      "vod_remarks": "更新至20250606",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106438,
+      "vod_name": "中国法术",
+      "type_id": 6,
+      "type_name": "动作片",
+      "vod_en": "zhongguofashu",
+      "vod_time": "2025-06-07 12:57:48",
+      "vod_remarks": "HD",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106437,
+      "vod_name": "包公斩驸马",
+      "type_id": 11,
+      "type_name": "剧情片",
+      "vod_en": "baogongzhanfuma",
+      "vod_time": "2025-06-07 12:56:55",
+      "vod_remarks": "HD",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 30618,
+      "vod_name": "芝加哥打字机",
+      "type_id": 15,
+      "type_name": "韩国剧",
+      "vod_en": "zhijiagedaziji",
+      "vod_time": "2025-06-07 12:50:19",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106436,
+      "vod_name": "有品位的她",
+      "type_id": 15,
+      "type_name": "韩国剧",
+      "vod_en": "youpinweideta",
+      "vod_time": "2025-06-07 12:49:48",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106435,
+      "vod_name": "一门英烈穆桂英",
+      "type_id": 21,
+      "type_name": "台湾剧",
+      "vod_en": "yimenyingliemuguiying",
+      "vod_time": "2025-06-07 12:49:06",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106434,
+      "vod_name": "我的遗憾男友",
+      "type_id": 15,
+      "type_name": "韩国剧",
+      "vod_en": "wodeyihannanyou",
+      "vod_time": "2025-06-07 12:48:23",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 104867,
+      "vod_name": "奔跑吧第九季",
+      "type_id": 25,
+      "type_name": "大陆综艺",
+      "vod_en": "benpaobadijiuji",
+      "vod_time": "2025-06-07 12:47:54",
+      "vod_remarks": "更新至20250607",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 50634,
+      "vod_name": "隧道",
+      "type_id": 15,
+      "type_name": "韩国剧",
+      "vod_en": "suidao",
+      "vod_time": "2025-06-07 12:47:38",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106433,
+      "vod_name": "新说唱2025",
+      "type_id": 25,
+      "type_name": "大陆综艺",
+      "vod_en": "xinshuochang2025",
+      "vod_time": "2025-06-07 12:47:35",
+      "vod_remarks": "更新至20250607",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106432,
+      "vod_name": "虽然30但仍17",
+      "type_id": 15,
+      "type_name": "韩国剧",
+      "vod_en": "suiran30danreng17",
+      "vod_time": "2025-06-07 12:46:49",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106431,
+      "vod_name": "四驱小子",
+      "type_id": 30,
+      "type_name": "日韩动漫",
+      "vod_en": "siquxiaozi",
+      "vod_time": "2025-06-07 12:46:02",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 30733,
+      "vod_name": "世上最美丽的离别",
+      "type_id": 15,
+      "type_name": "韩国剧",
+      "vod_en": "shishangzuimeilidelibie",
+      "vod_time": "2025-06-07 12:45:16",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106430,
+      "vod_name": "三言二拍",
+      "type_id": 13,
+      "type_name": "国产剧",
+      "vod_en": "sanyanerpai",
+      "vod_time": "2025-06-07 12:44:48",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106429,
+      "vod_name": "忍者小英雄",
+      "type_id": 30,
+      "type_name": "日韩动漫",
+      "vod_en": "renzhexiaoyingxiong",
+      "vod_time": "2025-06-07 12:43:58",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    },
+    {
+      "vod_id": 106428,
+      "vod_name": "人面桃花",
+      "type_id": 21,
+      "type_name": "台湾剧",
+      "vod_en": "renmiantaohua",
+      "vod_time": "2025-06-07 12:43:16",
+      "vod_remarks": "已完结",
+      "vod_play_from": "liangzi,lzm3u8"
+    }
+  ],
+  "class": [
+    {
+      "type_id": 1,
+      "type_pid": 0,
+      "type_name": "电影片"
+    },
+    {
+      "type_id": 2,
+      "type_pid": 0,
+      "type_name": "连续剧"
+    },
+    {
+      "type_id": 3,
+      "type_pid": 0,
+      "type_name": "综艺片"
+    },
+    {
+      "type_id": 4,
+      "type_pid": 0,
+      "type_name": "动漫片"
+    },
+    {
+      "type_id": 6,
+      "type_pid": 1,
+      "type_name": "动作片"
+    },
+    {
+      "type_id": 7,
+      "type_pid": 1,
+      "type_name": "喜剧片"
+    },
+    {
+      "type_id": 8,
+      "type_pid": 1,
+      "type_name": "爱情片"
+    },
+    {
+      "type_id": 9,
+      "type_pid": 1,
+      "type_name": "科幻片"
+    },
+    {
+      "type_id": 10,
+      "type_pid": 1,
+      "type_name": "恐怖片"
+    },
+    {
+      "type_id": 11,
+      "type_pid": 1,
+      "type_name": "剧情片"
+    },
+    {
+      "type_id": 12,
+      "type_pid": 1,
+      "type_name": "战争片"
+    },
+    {
+      "type_id": 13,
+      "type_pid": 2,
+      "type_name": "国产剧"
+    },
+    {
+      "type_id": 14,
+      "type_pid": 2,
+      "type_name": "香港剧"
+    },
+    {
+      "type_id": 15,
+      "type_pid": 2,
+      "type_name": "韩国剧"
+    },
+    {
+      "type_id": 16,
+      "type_pid": 2,
+      "type_name": "欧美剧"
+    },
+    {
+      "type_id": 20,
+      "type_pid": 1,
+      "type_name": "记录片"
+    },
+    {
+      "type_id": 21,
+      "type_pid": 2,
+      "type_name": "台湾剧"
+    },
+    {
+      "type_id": 22,
+      "type_pid": 2,
+      "type_name": "日本剧"
+    },
+    {
+      "type_id": 23,
+      "type_pid": 2,
+      "type_name": "海外剧"
+    },
+    {
+      "type_id": 24,
+      "type_pid": 2,
+      "type_name": "泰国剧"
+    },
+    {
+      "type_id": 25,
+      "type_pid": 3,
+      "type_name": "大陆综艺"
+    },
+    {
+      "type_id": 26,
+      "type_pid": 3,
+      "type_name": "港台综艺"
+    },
+    {
+      "type_id": 27,
+      "type_pid": 3,
+      "type_name": "日韩综艺"
+    },
+    {
+      "type_id": 28,
+      "type_pid": 3,
+      "type_name": "欧美综艺"
+    },
+    {
+      "type_id": 29,
+      "type_pid": 4,
+      "type_name": "国产动漫"
+    },
+    {
+      "type_id": 30,
+      "type_pid": 4,
+      "type_name": "日韩动漫"
+    },
+    {
+      "type_id": 31,
+      "type_pid": 4,
+      "type_name": "欧美动漫"
+    },
+    {
+      "type_id": 32,
+      "type_pid": 4,
+      "type_name": "港台动漫"
+    },
+    {
+      "type_id": 33,
+      "type_pid": 4,
+      "type_name": "海外动漫"
+    },
+    {
+      "type_id": 34,
+      "type_pid": 1,
+      "type_name": "伦理片"
+    },
+    {
+      "type_id": 35,
+      "type_pid": 0,
+      "type_name": "电影解说"
+    },
+    {
+      "type_id": 36,
+      "type_pid": 0,
+      "type_name": "体育"
+    },
+    {
+      "type_id": 37,
+      "type_pid": 36,
+      "type_name": "足球"
+    },
+    {
+      "type_id": 38,
+      "type_pid": 36,
+      "type_name": "篮球"
+    },
+    {
+      "type_id": 39,
+      "type_pid": 36,
+      "type_name": "网球"
+    },
+    {
+      "type_id": 40,
+      "type_pid": 36,
+      "type_name": "斯诺克"
+    },
+    {
+      "type_id": 41,
+      "type_pid": 0,
+      "type_name": "演员"
+    },
+    {
+      "type_id": 42,
+      "type_pid": 0,
+      "type_name": "新闻资讯"
+    },
+    {
+      "type_id": 43,
+      "type_pid": 42,
+      "type_name": "电影资讯"
+    },
+    {
+      "type_id": 44,
+      "type_pid": 42,
+      "type_name": "娱乐新闻"
+    },
+    {
+      "type_id": 45,
+      "type_pid": 1,
+      "type_name": "预告片"
+    },
+    {
+      "type_id": 46,
+      "type_pid": 2,
+      "type_name": "短剧"
+    }
+  ]
+}
